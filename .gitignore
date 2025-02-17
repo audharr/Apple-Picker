@@ -1,0 +1,19 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+.user
+.userprefs
+
+# Build directories
+/Build/
+/Builds/
+/Library/
+/obj/
+/Temp/
+
+# Other files to ignore
+*.csproj
+*.unityproj
+*.sln
+*.tmp
